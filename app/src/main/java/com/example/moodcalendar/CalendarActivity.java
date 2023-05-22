@@ -30,7 +30,6 @@ public class CalendarActivity extends AppCompatActivity {
 
 
         MaterialCalendarView MoodCalendar = findViewById(R.id.moodCalendar);
-
         //Get the mood from the calendar and make it sent the calendar color
         Uri uri = CalendarContract.Events.CONTENT_URI;
 

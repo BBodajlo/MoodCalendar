@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     android:scrollbarSize="4dp">
 
+
     <TextView
         android:id="@+id/greenArrow"
         android:layout_width="wrap_content"
@@ -118,7 +119,8 @@
         android:textSize="24dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        android:background="@color/cyan"/>
 
     <TextView
         android:id="@+id/redArrow"

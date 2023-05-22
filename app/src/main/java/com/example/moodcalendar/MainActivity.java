@@ -21,6 +21,7 @@ import java.util.Date;
     - Check to see if day already has a mood; if so overwrite it.
     - Figure out how to implement stats for a month shown
     - Potentially allow editing of moods by tapping on day on calendar
+    - Push notifications to remind to set mood
  */
 
 
