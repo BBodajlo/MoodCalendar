@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoodCalendar</string>
+    <string name="YOUR_API_KEY">AIzaSyDg2NSeBUNd87i3HvlbeJSc6zYdwQ1-Kjo</string>
+    <string name="arrowCharacter"><![CDATA[<]]></string>
+</resources>
